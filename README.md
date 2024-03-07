@@ -1,0 +1,2 @@
+# C_PRACTICE
+C practice by KIMSUNGJIN
